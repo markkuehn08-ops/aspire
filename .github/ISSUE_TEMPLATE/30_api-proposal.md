@@ -1,8 +1,8 @@
 ---
-name: 📄 API proposal
+name: "\U0001F4C4 API proposal"
 about: Propose a change to the public API surface
 title: ''
-labels: api-suggestion
+labels: ''
 assignees: ''
 
 ---
